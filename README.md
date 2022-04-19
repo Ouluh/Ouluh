@@ -19,4 +19,4 @@
 
 <br/>
 <br/>
-[discord]: https://discord.com/users/770966569777102858
+
