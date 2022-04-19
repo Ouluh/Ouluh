@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="discord.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][discord]
+[<img align="left" alt="discord.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/> ][discord]
 
 ### Languages and Tools:
 
