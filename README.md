@@ -5,9 +5,6 @@
 - 🥅 2022 Goals: Learn more about web3 & Express.js dashboards
 - ⚡ Fun fact: I love to game and make music
 
-### Connect with me:
-
-[<img align="left" alt="discord.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][discord]
 
 ### Languages and Tools:
 
